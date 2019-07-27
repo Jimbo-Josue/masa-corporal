@@ -1,0 +1,35 @@
+Headers:
+Authorization : ? (claveApi)
+
+PUT
+
+http://127.0.0.1/~main/php/api.peopleapp.com/v1/contactos
+
+{
+  "primerNombre":"Marco",
+  "primerApellido":"Andrade",
+  "telefono":"72094046",
+  "correo":"mandrade@ulasalle.edu.pe"
+}
+
+{
+  "primerNombre":"Paulo",
+  "primerApellido":"Huallanca",
+  "telefono":"71329617",
+  "correo":"phuallancapo@ulasalle.edu.pe"
+}
+
+{
+  "primerNombre":"Joel",
+  "primerApellido":"Pinto",
+  "telefono":"48061501",
+  "correo":"jpintot@ulasalle.edu.pe"
+}
+
+{
+  "primerNombre":"Dennys",
+  "primerApellido":"Quispe",
+  "telefono":"74806137",
+  "correo":"dquispeto@ulasalle.edu.pe"
+}
+

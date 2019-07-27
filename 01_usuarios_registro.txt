@@ -1,0 +1,27 @@
+POST
+
+http://127.0.0.1/~main/php/api.peopleapp.com/v1/usuarios/registro
+
+{
+  "nombre":"MARCO ANTONIO ANDRADE SEQUEIROS",
+  "contrasena":"72094046",
+  "correo":"mandrade@ulasalle.edu.pe"
+}
+
+{
+  "nombre":"PAULO EDU HUALLANCA PONCE",
+  "contrasena":"71329617",
+  "correo":"phuallancapo@ulasalle.edu.pe"
+}
+
+{
+  "nombre":"JOEL HENRY PINTO TAPARA",
+  "contrasena":"48061501",
+  "correo":"jpintot@ulasalle.edu.pe"
+}
+
+{
+  "nombre":"DENNYS JEANPOL QUISPE TORRES",
+  "contrasena":"74806137",
+  "correo":"dquispeto@ulasalle.edu.pe"
+}

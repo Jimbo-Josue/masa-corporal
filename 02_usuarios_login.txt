@@ -1,0 +1,23 @@
+POST
+
+http://127.0.0.1/~main/php/api.peopleapp.com/v1/usuarios/login
+
+{
+  "contrasena":"72094046",
+  "correo":"mandrade@ulasalle.edu.pe"
+}
+
+{
+  "contrasena":"71329617",
+  "correo":"phuallancapo@ulasalle.edu.pe"
+}
+
+{
+  "contrasena":"48061501",
+  "correo":"jpintot@ulasalle.edu.pe"
+}
+
+{
+  "contrasena":"74806137",
+  "correo":"dquispeto@ulasalle.edu.pe"
+}
